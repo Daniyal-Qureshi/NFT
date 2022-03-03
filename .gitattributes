@@ -1,4 +1,5 @@
 *.solidity linguist-detectable=true
 *.js linguist-detectable=true
 *.css linguist-detectable=false
+*.scss linguist-detectable=false
 
